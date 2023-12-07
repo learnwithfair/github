@@ -1,11 +1,3 @@
-<style>
-
-red {
-  color: red;
-}
-
-</style>
-
 ## Create GitHub Profile Visit
 
 1. https://github-profile-summary-cards.vercel.app/demo.html
@@ -114,7 +106,13 @@ $\color{lightblue}{Some \space text \space here}$ <br>
 $\color{red}{Some \space text \space here}$ <br>
 ```
 
-A <red>Red color </red>sentence.
+<style>
+    red {
+    color: red;
+    }
+</style>
+
+<red>A Red color sentence.</red>
 
 ### Markdown Usage
 
