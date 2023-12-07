@@ -93,3 +93,15 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 |Home|Product|Store|
 |![Index](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/dbca547c-a2fa-4c83-8654-f0f5244950aa)|![Product](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/0de8d398-c320-4efc-84d9-ac58587705b5)| ![Store](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/80fd582f-73e3-486d-8522-6593560789b7)|
 ```
+
+## Text Color
+
+$\color{red}{Some \space text \space here}$ <br>
+$\color{green}{Some \space text \space here}$ <br>
+$\color{lightblue}{Some \space text \space here}$ <br>
+
+### Markdown Usage
+
+```diff
+$\color{red}{Some \space text \space here}$ <br>
+```
