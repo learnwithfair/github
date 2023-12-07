@@ -1,3 +1,11 @@
+<style>
+
+red {
+  color: red;
+}
+
+</style>
+
 ## Create GitHub Profile Visit
 
 1. https://github-profile-summary-cards.vercel.app/demo.html
@@ -105,14 +113,6 @@ $\color{lightblue}{Some \space text \space here}$ <br>
 ```diff
 $\color{red}{Some \space text \space here}$ <br>
 ```
-
-<style>
-
-red {
-  color: red;
-}
-
-</style>
 
 A <red>Red color </red>sentence.
 
