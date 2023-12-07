@@ -97,33 +97,11 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ## Text Color
 
 $\color{red}{Some \space text \space here}$ <br>
-$\color{green}{Some \space text \space here}$ <br>
-$\color{lightblue}{Some \space text \space here}$ <br>
+$$\color{green}{Some \space text \space here}$$ <br>
+$$$\color{lightblue}{Some \space text \space here}$$$ <br>
 
 ### Markdown Usage
 
 ```diff
 $\color{red}{Some \space text \space here}$ <br>
-```
-
-<style>
-    red {
-    color: red;
-    }
-</style>
-
-<red>A Red color sentence.</red>
-
-### Markdown Usage
-
-```diff
-<style>
-
-red {
-  color: red;
-}
-
-</style>
-
-A <red>Red color </red>sentence.
 ```
