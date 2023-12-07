@@ -105,3 +105,27 @@ $\color{lightblue}{Some \space text \space here}$ <br>
 ```diff
 $\color{red}{Some \space text \space here}$ <br>
 ```
+
+<style>
+
+red {
+  color: red;
+}
+
+</style>
+
+A <red>Red color </red>sentence.
+
+### Markdown Usage
+
+```diff
+<style>
+
+red {
+  color: red;
+}
+
+</style>
+
+A <red>Red color </red>sentence.
+```
