@@ -9,22 +9,18 @@
 <h1 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h1>
 
 <h2 align="center">
-
 ```diff
 "Professional Full Stack Web Developer"
 ```
-
 </h2>
 
+### Markdown Usage
+
 ````diff
-
-<h2 align="center">
-
 ```diff
 "Professional Full Stack Web Developer"
 ````
 
-</h2>
 ```
 
 ![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)
@@ -52,3 +48,9 @@
 ## Contact Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twiter.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithfair)
+
+```
+
+```
+
+```
