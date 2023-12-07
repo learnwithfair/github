@@ -3,6 +3,7 @@
 1. https://github-profile-summary-cards.vercel.app/demo.html
 2. https://rahuldkjain.github.io/gh-profile-readme-generator/
 3. https://arturssmirnovs.github.io/github-profile-readme-generator/
+4. https://readme.so/editor
 
 ## GitHub Profile Demo
 
@@ -19,8 +20,6 @@
 "Professional Full Stack Web Developer"
 ```
 ````
-
-![Untitled design](https://github.com/learnwithfair/learnwithfair/assets/103452668/b51d21ed-a1a8-4f40-8e58-7c719302635d)
 
 ![description](https://github.com/learnwithfair/learnwithfair/assets/103452668/93a89a48-3403-44ca-af1f-cd7a33855e1f)
 
@@ -97,7 +96,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ## Text Color
 
 $\color{red}{Some \space text \space here}$ <br>
-$\color{green}{Some \space text \space here}$$ <br>
+$\color{green}{Some \space text \space here}$ <br>
 $\color{lightblue}{Some \space text \space here}$ <br>
 
 ### Markdown Usage
@@ -112,7 +111,7 @@ $$\color{red}{Some \space text \space here}$$ <br> (For Text Align Center)
 | Color         | Hex                                                              |
 | ------------- | ---------------------------------------------------------------- |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) #FF0000 |
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
