@@ -58,29 +58,43 @@ Visit : https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnwithfair&theme=github) <span align="right">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" /></span>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=learnwithfair&theme=github) <span align="right"> &nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) </span>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=learnwithfair&theme=github) <span align="right"> &nbsp;&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithfair&show_icons=true&count_private=true) </span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithfair)](https://github.com/anuraghazra/github-readme-stats)<span align="right"> &nbsp;&nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair) </span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithfair)](https://github.com/anuraghazra/github-readme-stats)<span align="right"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=learnwithfair) </span>
 
 ### Markdown Usage
 
 ```diff
 Visit-1 : https://github-profile-summary-cards.vercel.app/demo.html
 Visit-2 : https://arturssmirnovs.github.io/github-profile-readme-generator/
+Profile View: <img src="https://komarev.com/ghpvc/?username=learnwithfair&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithfair" />
 ```
 
 ## Contact Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twiter.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithfair)
 
+### Markdown Usage
+
+```diff
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 ```
 
-```
+## Project Screenshot
 
-```
+|      |         |       |
+| :--: | :-----: | :---: |
+| Home | Product | Store |
 
-```
+|![Index](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/dbca547c-a2fa-4c83-8654-f0f5244950aa)
+|![Product](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/0de8d398-c320-4efc-84d9-ac58587705b5)
+|![Store](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/80fd582f-73e3-486d-8522-6593560789b7)|
 
-```
-
+```diff
+|      |         |       |
+| :--: | :-----: | :---: |
+| Home | Product | Store |
+|![Index](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/dbca547c-a2fa-4c83-8654-f0f5244950aa)
+|![Product](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/0de8d398-c320-4efc-84d9-ac58587705b5)
+|![Store](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/80fd582f-73e3-486d-8522-6593560789b7)|
 ```
