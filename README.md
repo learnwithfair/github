@@ -124,6 +124,7 @@ $$\color{red}{Some \space text \space here}$$ <br> (For Text Align Center)
 https://readme.so/editor
 ```
 
+## Column Collapse
 <details>
   <summary>Click me</summary>
   
