@@ -123,3 +123,24 @@ $$\color{red}{Some \space text \space here}$$ <br> (For Text Align Center)
 ```diff
 https://readme.so/editor
 ```
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Programming
+  1. Competitive Programming
+  2. Web Programming
+     * PHP
+     * Python
+    
+  ### Markdown Usage
+```diff
+<details>
+  <summary>Click me</summary>
+ 1. Web Programming
+     * PHP
+     * Python
+</details>
+```
+ </details>
+
