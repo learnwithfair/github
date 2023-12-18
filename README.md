@@ -145,3 +145,10 @@ https://readme.so/editor
 ```
  </details>
 
+## Video Adding 
+[![Watch the video](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/my-website-github-thumbnail.png)](https://youtu.be/b0Nv5UYwWpE?si=J8LiKucYMqh-rjzm)
+
+### Markdown Usage
+```diff
+[![Watch the video](https://github.com/learnwithfair/my-tutorial-website/blob/main/screenshot/image/my-website-github-thumbnail.png)](https://www.youtube.com/@learnwithfair)
+```
