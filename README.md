@@ -8,6 +8,33 @@
 ## Download Source Code
 [Click Here](https://mega.nz/folder/wPc2japL#XJ0qMmggG7cIErhUNjtaKQ)
 
+## Repository Upload Command
+
+```bash
+…or create a new repository on the command line
+echo "# Laravel-restaurant" >> README.md
+git init
+git config --global --add safe.directory 'E:/Programming File/Cpp (++)  Programming'
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/learnwithfair/laravel-restaurant.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/learnwithfair/laravel-restaurant.git
+git branch -M main
+git push -u origin main
+
+
+##########
+to check brance -> git brance -a
+Change Brance git checkout branceName
+more details -> git cheat sheet
+```
+
+
 ## GitHub Profile Demo
 
 <h2 align="center">Welcome to My GitHub, Your Satisfaction is My First Priority!</h2>
